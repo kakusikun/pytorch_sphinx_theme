@@ -11038,6 +11038,7 @@ article.pytorch-article .wy-table-responsive table tbody td {
   padding: 0.9375rem;
   font-size: 1rem;
   line-height: 1.375rem;
+  width: 50%;
 }
 article.pytorch-article .wy-table-responsive table tbody td .pre {
   background: #ffffff;
